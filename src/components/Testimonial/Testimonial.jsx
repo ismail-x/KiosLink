@@ -11,7 +11,7 @@ const TestimonialsData = [
   },
   {
     id: 2,
-    name: "Steve Smith",
+    name: "Slamet Riyadi",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
     img: "https://picsum.photos/102/102",
     delay: 0.5,
